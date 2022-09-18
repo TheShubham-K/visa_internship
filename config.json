@@ -1,0 +1,6 @@
+{
+    "user_id":"subham.kumar032@gmail.com",
+    "password":"ShubhamKumar@123",
+    "cert_path":"./RootKey.crt",
+    "key_path":"./cert.pem"
+}
